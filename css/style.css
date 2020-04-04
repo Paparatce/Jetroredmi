@@ -1,12 +1,18 @@
-html{
+html {
     box-sizing: border-box;
 }
-body{
+
+body {
     background-color: #c9c9c9;
 }
-header{
+
+header {
     background-color: green;
 }
-footer{
-    background-color: blue;
+section {
+    background-color: yellow;
 }
+footer {
+    background-color: green;
+}
+
